@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
- gem 'lita-stack'  
+ gem "lita"
+ gem "lita-slack"
+ 
+  
 
 gemspec
